@@ -76,4 +76,8 @@ The final architecture uses the **native DLL + C# WinForms UI**.
 - **x64 is not supported** due to inline assembly usage in the native component.
 - CPU topology detection can vary across vendors/architectures (different CPUID leaves).
 
+---
 
+## Documentation
+
+A detailed project documentation is available in Romanian: [`CpuBench_documentation.pdf`](CpuBench_documentation.pdf)
