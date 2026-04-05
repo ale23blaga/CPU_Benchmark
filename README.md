@@ -80,4 +80,4 @@ The final architecture uses the **native DLL + C# WinForms UI**.
 
 ## Documentation
 
-A detailed project documentation is available in Romanian: [`CpuBench_Documentation.pdf`](CpuBench_Documenttation.pdf)
+A detailed project documentation is available in Romanian: [`CpuBench_Documentation.pdf`](CpuBench_Documenttaion.pdf)
